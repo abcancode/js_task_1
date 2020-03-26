@@ -1,2 +1,2 @@
 # js_task_1
-First JavaScript Track on Startng
+First JavaScript Task on Startng
